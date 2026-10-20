@@ -4,6 +4,121 @@
 **Theme:** Change four scores, then report the class  
 **Type:** Cumulative mini project (replaces the lab and the homework this week)
 
+**To compile copy and paste this command into the console and run it:** 
+
+g++ -std=c++17 -o program main.cpp  
+
+**Then to run the program copy and paste this command into the console and run again:**
+
+./program
+
+**Example of a successful run:**
+
+Student Grades by Index:
+
+[0] 62
+
+[1] 33
+
+[2] 17
+
+[3] 72
+
+[4] 88
+
+[5] 11
+
+[6] 31
+
+[7] 25
+
+[8] 55
+
+[9] 59
+
+[10] 98
+
+[11] 95
+
+[12] 37
+
+[13] 1
+
+[14] 55
+
+[15] 10
+
+[16] 27
+
+[17] 42
+
+[18] 38
+
+[19] 64
+
+[20] 92
+
+[21] 64
+
+[22] 4
+
+[23] 74
+
+[24] 28
+
+[25] 99
+
+[26] 78
+
+[27] 76
+
+[28] 70
+
+[29] 85
+
+Letter Grade Counts: 
+
+A: 4
+
+B: 2
+
+C: 5
+
+D: 3
+
+Failing: 16
+
+Student at index [1] needs to come in for office hours! 
+
+Student at index [2] needs to come in for office hours! 
+
+Student at index [5] needs to come in for office hours! 
+
+Student at index [6] needs to come in for office hours! 
+
+Student at index [7] needs to come in for office hours! 
+
+Student at index [8] needs to come in for office hours! 
+
+Student at index [9] needs to come in for office hours! 
+
+Student at index [12] needs to come in for office hours! 
+
+Student at index [13] needs to come in for office hours! 
+
+Student at index [14] needs to come in for office hours! 
+
+Student at index [15] needs to come in for office hours! 
+
+Student at index [16] needs to come in for office hours! 
+
+Student at index [17] needs to come in for office hours! 
+
+Student at index [18] needs to come in for office hours! 
+
+Student at index [22] needs to come in for office hours! 
+
+Student at index [24] needs to come in for office hours! 
 
 ## Demo video (required)
 
@@ -12,7 +127,7 @@ Work without a working video link is incomplete.
 
 In the video, show the four lines you changed, one run, the five counts, and the office-hours lines.
 
-**Your demo:** _add your link here_
+**Your demo:** 
 
 
 ## What to build
